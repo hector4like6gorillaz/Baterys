@@ -1,21 +1,21 @@
 {
   "files": {
     "main.css": "/Baterys/static/css/main.9d5b29c0.chunk.css",
-    "main.js": "/Baterys/static/js/main.c98dd388.chunk.js",
-    "main.js.map": "/Baterys/static/js/main.c98dd388.chunk.js.map",
-    "runtime-main.js": "/Baterys/static/js/runtime-main.68841131.js",
-    "runtime-main.js.map": "/Baterys/static/js/runtime-main.68841131.js.map",
-    "static/js/2.b6d54cd0.chunk.js": "/Baterys/static/js/2.b6d54cd0.chunk.js",
-    "static/js/2.b6d54cd0.chunk.js.map": "/Baterys/static/js/2.b6d54cd0.chunk.js.map",
+    "main.js": "/Baterys/static/js/main.77b209da.chunk.js",
+    "main.js.map": "/Baterys/static/js/main.77b209da.chunk.js.map",
+    "runtime-main.js": "/Baterys/static/js/runtime-main.7218eae9.js",
+    "runtime-main.js.map": "/Baterys/static/js/runtime-main.7218eae9.js.map",
+    "static/js/2.aeda6e2e.chunk.js": "/Baterys/static/js/2.aeda6e2e.chunk.js",
+    "static/js/2.aeda6e2e.chunk.js.map": "/Baterys/static/js/2.aeda6e2e.chunk.js.map",
     "index.html": "/Baterys/index.html",
     "static/css/main.9d5b29c0.chunk.css.map": "/Baterys/static/css/main.9d5b29c0.chunk.css.map",
-    "static/js/2.b6d54cd0.chunk.js.LICENSE.txt": "/Baterys/static/js/2.b6d54cd0.chunk.js.LICENSE.txt",
+    "static/js/2.aeda6e2e.chunk.js.LICENSE.txt": "/Baterys/static/js/2.aeda6e2e.chunk.js.LICENSE.txt",
     "static/media/logo.6ce24c58.svg": "/Baterys/static/media/logo.6ce24c58.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.68841131.js",
-    "static/js/2.b6d54cd0.chunk.js",
+    "static/js/runtime-main.7218eae9.js",
+    "static/js/2.aeda6e2e.chunk.js",
     "static/css/main.9d5b29c0.chunk.css",
-    "static/js/main.c98dd388.chunk.js"
+    "static/js/main.77b209da.chunk.js"
   ]
 }
