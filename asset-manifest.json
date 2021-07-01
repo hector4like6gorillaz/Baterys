@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/Baterys/static/css/main.9d5b29c0.chunk.css",
-    "main.js": "/Baterys/static/js/main.77b209da.chunk.js",
-    "main.js.map": "/Baterys/static/js/main.77b209da.chunk.js.map",
+    "main.js": "/Baterys/static/js/main.1fb69b1f.chunk.js",
+    "main.js.map": "/Baterys/static/js/main.1fb69b1f.chunk.js.map",
     "runtime-main.js": "/Baterys/static/js/runtime-main.7218eae9.js",
     "runtime-main.js.map": "/Baterys/static/js/runtime-main.7218eae9.js.map",
     "static/js/2.aeda6e2e.chunk.js": "/Baterys/static/js/2.aeda6e2e.chunk.js",
@@ -16,6 +16,6 @@
     "static/js/runtime-main.7218eae9.js",
     "static/js/2.aeda6e2e.chunk.js",
     "static/css/main.9d5b29c0.chunk.css",
-    "static/js/main.77b209da.chunk.js"
+    "static/js/main.1fb69b1f.chunk.js"
   ]
 }
