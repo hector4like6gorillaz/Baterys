@@ -6,6 +6,7 @@ import { BrowserRouter as Router, Switch, Route, Redirect } from "react-router-d
 
 import './index.css';
 import App from './App';
+import { Login } from './components/views/login/Login';
 
 
 
@@ -13,8 +14,9 @@ ReactDOM.render(
   <Provider store={store}>
     <Router>
       <Switch>
-        <Route exact path="/"><App /></Route>
-        <Redirect to="/"><App /></Redirect>
+        <Route exact path="/login"><Login /></Route>
+        <Route path="/nada"><App /></Route>
+        <Redirect to="/login"><Login /></Redirect>
       </Switch>
     </Router>
   </Provider>,
