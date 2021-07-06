@@ -3,10 +3,12 @@ import ReactDOM from 'react-dom';
 import { Provider } from 'react-redux';
 import store from './components/redux/store';
 import { BrowserRouter as Router, Switch, Route, Redirect } from "react-router-dom";
+import { Login } from './components/views/login/Login';
 
 import './index.css';
 import App from './App';
-import { Login } from './components/views/login/Login';
+import { Bitacora } from './components/views/bitacora/Bitacora';
+
 
 
 
@@ -14,9 +16,10 @@ ReactDOM.render(
   <Provider store={store}>
     <Router>
       <Switch>
-        <Route exact path="/login"><Login /></Route>
-        <Route path="/nada"><App /></Route>
-        <Redirect to="/login"><Login /></Redirect>
+        <Route exact path="/"><Login /></Route>
+        <Route path="Baterys/nada"><App /></Route>
+        <Route path="/bitacora"><Bitacora /></Route>
+        <Redirect to="/"><Login /></Redirect>
       </Switch>
     </Router>
   </Provider>,
